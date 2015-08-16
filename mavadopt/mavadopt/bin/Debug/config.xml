@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Config>
+  <comport />
+  <baudrate />
+  <APMFirmware>ArduCopter2</APMFirmware>
+  <guid>9818c75c-c644-4d9e-81e7-a940df3c9344</guid>
+</Config>
